@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "This is a random quote generator app from a selection of some of my favorite quotes from the office",
+            "technologies": ["JavaScript", "CSS", "HTML"],
+            "live_link": "https://gil-aluminum.github.io/Unit1/",
+            "github_link": "https://github.com/Gil-Aluminum/Unit1",
+            "image_urls": ["static/images/unit1_a.png", "static/images/unit1_b.png"]
+        },
+        {
+            "id": 1,
+            "project_name": "Data Pagination and Filtering",
+            "description": "Is an app that takes an array of student objects, displays a list on the page with each student and then paginates it in multiples of 9 by each page.",
+            "technologies": ["JavaScript", "CSS", "HTML"],
+            "live_link": "https://gil-aluminum.github.io/unit2/",
+            "github_link": "https://github.com/Gil-Aluminum/unit2",
+            "image_urls": ["static/images/unit2_a.png", "static/images/unit2_b.png"]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "A responsive and accessible web form using HTML, CSS and JavaScript.",
+            "technologies": ["JavaScript", "CSS", "HTML"],
+            "live_link": "https://gil-aluminum.github.io/unit3/",
+            "github_link": "https://github.com/Gil-Aluminum/unit3",
+            "image_urls": ["static/images/unit3_a.png","static/images/unit3_b.png", "static/images/unit3_c.png"]
+        },
+        {
+            "id": 3,
+            "project_name": "OOP-Game-Show-App",
+            "description": "A browser-based, word guessing game: 'Phrase Hunter.' created using OOP principles",
+            "technologies": ["JavaScript", "CSS", "HTML"],
+            "live_link": "https://gil-aluminum.github.io/unit4/",
+            "github_link": "https://github.com/Gil-Aluminum/unit4",
+            "image_urls": ["static/images/unit4_a.png", "static/images/unit4_b.png", "static/images/unit4_c.png"]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Request website",
+            "description": "An app for a fictional company to display employees contact information.The app was made using Fetch to retrieve data from randomuser.me, a free api used to generate random users data. We use it to generate a list of twelve contact cards for each contact.",
+            "technologies": ["JavaScript", "CSS", "HTML"],
+            "live_link": "https://gil-aluminum.github.io/unit5/",
+            "github_link": "https://github.com/Gil-Aluminum/unit5",
+            "image_urls": ["static/images/unit5_a.png", "static/images/unit5_b.png"]
+        }
+    ]
+}
