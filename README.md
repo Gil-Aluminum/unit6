@@ -6,3 +6,5 @@ In this project, I've created a gorgeous portfolio site to showcase the great pr
 *extra credit changes are in the end of styles.css*
 
 changes preformed were making each btn of linkedin github and twitter rounded, and using a color picker changing each one of their background color to the signature color of it's site.
+
+Not a css change, but I made my profile picture clickable so it will also link to my about page.
