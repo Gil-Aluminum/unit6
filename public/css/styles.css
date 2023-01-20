@@ -376,6 +376,7 @@ nav a span {
   background-color: #0966c2;
   border: 1px solid transparent;
   border-radius: 25px;
+  box-shadow: 10px 10px 5px lightgrey;
 }
 
 .btn-twitter {
@@ -389,6 +390,7 @@ nav a span {
   background-color: #1d9bf0;
   border: 1px solid transparent;
   border-radius: 25px;
+  box-shadow: 10px 10px 5px lightgrey;
 }
 
 .btn-github {
@@ -402,6 +404,7 @@ nav a span {
   background-color: #161b22;
   border: 1px solid transparent;
   border-radius: 25px;
+  box-shadow: 10px 10px 5px lightgrey;
 }
 
 
